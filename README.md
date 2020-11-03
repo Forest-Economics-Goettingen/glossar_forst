@@ -1,7 +1,7 @@
 Glossar forstlicher Begriffe der Abteilung Forstökonomie
 --------------------------------------------------------
 
-#### Kurbeschreibung des Glossar
+#### Kurzbeschreibung des Glossar
 
 An dieser Stelle werden kurz Sinn und Zweck des [forstlichen Glossar](https://forest_economics_goettingen.pages.gwdg.de/glossar_forst)
 beschrieben…
